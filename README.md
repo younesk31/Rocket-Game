@@ -1,11 +1,4 @@
-| Service  | Stable         | Develop          | Final |
+| Service  | Alpha         | Develop          | Final |
 |----------|:---------------------------:|:----------------------------:|:----------------------------:|
-| Build Status 
-| [![Build status]()]() 
-| [![Build status]() 
-| [![Build Status]()]()
-
-| Download 
-| [![Download](https://i.imgur.com/odToka3.png)](download button)         
-| [![Download](https://i.imgur.com/odToka3.png)](download button)
-| [![Download](https://i.imgur.com/odToka3.png)](download button)
+| Build Status | Working! |  | 
+| Download | [![Download](http://i.imgur.com/odToka3.png)](https://github.com/younesk31/Rocket-Game/archive/v0.1-alpha.zip)         | Working on it| Coming soon
